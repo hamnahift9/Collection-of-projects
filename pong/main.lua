@@ -6,6 +6,7 @@
 
     Author: Colton Ogden
     cogden@cs50.harvard.edu
+    Finished by Hamnah Iftikhar 
 
     Originally programmed by Atari in 1972. Features two
     paddles, controlled by players, with the goal of getting
