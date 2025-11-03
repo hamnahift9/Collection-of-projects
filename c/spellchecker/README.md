@@ -1,0 +1,2 @@
+# spellchecker
+is compiled using "Make speller" after you have collected all the files into one folder. It takes the command-line argument ./speller dictionary text, where dictionary is the dictionary file you want to use (you can use your own or the one provided in the repository) and text is the file you want to spell-check. If you want to print all the misspelled words, remove the "//" from lines 64 and 121 of speller.c, re-compile and re-run. If you do not provide a dictionary, speller will use dictionaries/large by default.
