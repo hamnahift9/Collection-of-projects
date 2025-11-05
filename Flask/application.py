@@ -1,3 +1,4 @@
+# Done as part of Cs50x
 import os
 
 from cs50 import SQL
