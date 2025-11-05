@@ -1,3 +1,4 @@
+# CLI game
 import random
 import sys
 
